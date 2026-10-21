@@ -13,7 +13,7 @@
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
   "nickNameBot": "—͞ 𝐐𝐔𝐄𝐄𝐍 🎀❤️‍🩹",
-  "prefix": "/",
+  "prefix": "₹",
   "noPrefix": {
     "enable": false,
     "notes": "true = only bot admins can use commands without prefix | false = everyone must use prefix"
@@ -23,7 +23,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61583835186508",
+    "61595546250453",
     " ",
     " "
   ],
@@ -39,8 +39,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083039411474",
-      "100063840894133"
+      "61595546250453",
+      "61595546250453"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
